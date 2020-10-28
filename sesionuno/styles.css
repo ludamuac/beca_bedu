@@ -1,0 +1,24 @@
+button {
+    background-color: #025157;
+    color: #fff;
+    padding: 5px 20px;
+    text-align: center;
+    font-size: 16px;
+}
+
+body {
+    background-color: #fffbf7;
+}
+/* Esto es por medio de clases */
+.promocional {
+    color:#8b8b8bcc;
+}
+
+/* Esto es por medio de id */
+#cabecera {
+ color:#46484c
+}
+
+
+
+
